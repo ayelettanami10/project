@@ -128,36 +128,21 @@ p {
 }
 
 table {
-    width: 100%;
-    width: 270px;
-    height: 270px;
-    border-collapse: collapse;
-    margin-left: 600px;
-    border-spacing: 0;
-    padding-top: 0;
-    padding-bottom: 0;
-    
    
+    border-collapse: collapse;
+    margin-left: 520px;
+    
   }
   
   table td{ padding: 0;
     
-    border: none;
     
 }
 
-td:first-child {
-    width: 30px; 
-  }
-
-
 table img{display: block;
-    line-height: 0;
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: cover;
-    padding-top: 0;
-    padding-bottom: 0;
+   
+    width: 50px;
+    height: 50px;
 }
 
   

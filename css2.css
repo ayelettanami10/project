@@ -1,0 +1,115 @@
+#div10 {
+    width: 560px;
+    height: 225px;
+    margin-left: 430px;
+    background-color: aqua;
+    padding: 2px;
+
+}
+
+
+
+
+#div20 {
+    width: 55px;
+    height: 60px;
+    margin-left: 507px;
+    background-image: url(imog.jpeg);
+    background-size: cover;
+    margin-top: -185.3px;
+    margin-left: 430px;
+
+
+}
+
+p {
+    margin-top: 2px;
+}
+
+#bigDiv {
+    background-color: rgb(100, 154, 248);
+    width: 620px;
+    height: 340px;
+    margin-left: 410px;
+}
+
+#div1 {
+    width: 601px;
+    height: 324.5px;
+    border-style: solid;
+    border-width: 3px;
+
+}
+
+#div2 {
+    width: 150px;
+    height: 80px;
+    background-color: rgb(78, 140, 248);
+    border-right: solid;
+    border-width: 3px;
+
+}
+
+#div3 {
+    width: 300px;
+    height: 80px;
+    background-color: rgb(17, 91, 217);
+    border-right: solid;
+    border-width: 3px;
+    border-top: solid;
+}
+
+#div4 {
+    width: 460px;
+    height: 80px;
+    background-color: rgb(12, 65, 156);
+    border-right: solid;
+    border-width: 3px;
+    border-top: solid;
+}
+
+#div5 {
+    width: 600px;
+    height: 80px;
+    background-color: rgb(6, 26, 60);
+    border-right: solid;
+    border-width: 3px;
+    border-top: solid;
+}
+
+#sq {
+    width: 600px;
+    height: 320px;
+    margin-left: 425px;
+    background-color: aliceblue;
+
+}
+
+#sq1 {
+    width: 300px;
+    height: 270px;
+    background-color: rgb(246, 246, 20);
+    display: flex;
+ 
+}
+
+#sq2 {
+    width: 300px;
+    height: 270px;
+    background-color: rgb(153, 242, 20);
+    display: flex;
+    margin-left: 300px;
+    margin-top: -270px;
+   
+}
+
+#sq3 { width: 600px;
+    height: 50px;
+    background-color: rgb(48, 69, 15);
+    display: flex;
+    
+    
+
+}
+
+h6{margin-top: 2px;}
