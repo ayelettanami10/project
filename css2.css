@@ -171,7 +171,7 @@ h6 {
     height: 520px;
     margin-left: 325px;
     background-color: aliceblue;
-    text-align: center;
+    
 
 }
 
@@ -179,34 +179,35 @@ h6 {
     width: 800px;
     height: 70px;
     background-color:blueviolet;
-    display: flex;
+    text-align: center;
     
+   
 }
 
 #ta2 {
     width: 800px;
     height:40px;
     background-color:blue;
-    display: flex;
+margin-top: -2px;
 }
 
 #ta3 {
     width: 800px;
     height: 340px;
     background-color:rgb(251, 211, 217);
-    display: flex;
+    
 }
+
 
 #ta5 {
     width: 800px;
     height: 75px;
     background-color:dimgrey;
-    display: flex;
+    margin-top: -2px;
 }
 h6{color: aliceblue;
-    
-   }
-
+    padding-top: 8px;
+}
 .aa{
     background-color: red;
     color: white;
@@ -225,10 +226,9 @@ h6{color: aliceblue;
     color: white;
 }
 table {
-   
-    
+   padding-top: 10px;
     margin-left: 20px;
-    margin-top:  10px;
+   
     text-align: center;
     
    
